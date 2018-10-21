@@ -1,4 +1,4 @@
-# anasiw
+# Anasiw
 Kabyle Keyboard for linux
 # Anasiw aqbayli i Linux
 
