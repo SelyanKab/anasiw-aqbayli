@@ -26,7 +26,7 @@ Installation
 2. Extraire l'archive `.zip` téléchargée
 3. Ouvrir un terminal et placer-vous dans le dossier de l'archive
 
-	`cd Kabyle-Keyboard`
+	`cd anasiw`
 
 4. Donner les droits d’exécution au fichier d'installation
 	
