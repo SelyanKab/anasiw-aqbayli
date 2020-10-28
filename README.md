@@ -8,7 +8,7 @@ Aucun droit n'est exigé. Ce logiciel est libre pour toute utilisation et reprod
 1. Ce logiciel n'est testé que pour Linux Ubuntu et Linux Mint. Mais il est conçu pour fonctionner sur toutes les autres distributions.
 
 2. Le Layout ou modèle est hérité du français azerty.
-3. Les touches étendues sont: c (č, Č) d (ḍ, Ḍ) g (ǧ, Ǧ) h (ḥ, Ḥ) q (ɣ, Ɣ) r (ṛ, Ṛ) s (ṣ, Ṣ) t(ṭ, Ṭ) w (ɛ,Ɛ)  z(ẓ, Ẓ) 
+3. Les touches étendues sont: a (ɛ,Ɛ) c (č, Č) d (ḍ, Ḍ) g (ǧ, Ǧ) h (ḥ, Ḥ) q (ɣ, Ɣ) r (ṛ, Ṛ) s (ṣ, Ṣ) t(ṭ, Ṭ) z(ẓ, Ẓ) 
 
 Vos remarques sont les bienvenues:
 Slimane Selyan AMIRI:
